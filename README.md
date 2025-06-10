@@ -149,10 +149,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or feedback, please contact:
 
-**Gowtham Sri Harsha**  
-Email: [harshakota339@gmail.com](mailto:harshakota339@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/gowthamsriharsha)  
-[GitHub](https://github.com/SriHarsha339)
+**Gosu Ajay Balaji**  
+Email: [ajaybalajigosu31@gmail.com](mailto:ajaybalajigosu31@gmail.com)  
+[LinkedIn](www.linkedin.com/in/
+gosu-ajay-balaji-41ab78290)  
+[GitHub](https://github.com/Ajaybalaji08)
 
 ---
 
